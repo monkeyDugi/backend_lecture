@@ -1,1 +1,1 @@
-# backend_lecture
+## 백엔드 꿀 강의 링크 저장소
